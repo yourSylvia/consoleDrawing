@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e801a07-12bf-4267-86db-8bdd16954e6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nxUxcjJnWpzZZveYbHy6Flccgs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PainterTest">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Application" />
+      <module name="consoleDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PainterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consoleDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test.PainterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PainterTest.testFillBucketWhenPointInsideOfTheLinesAndEdgeAreaExpectedAreaFilled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consoleDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test.PainterTest" />
+      <option name="METHOD_NAME" value="testFillBucketWhenPointInsideOfTheLinesAndEdgeAreaExpectedAreaFilled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PainterTest.testFillBucketWhenPointInsideOfTheRectangleExpectedRectangleFilled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consoleDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test.PainterTest" />
+      <option name="METHOD_NAME" value="testFillBucketWhenPointInsideOfTheRectangleExpectedRectangleFilled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PainterTest.testFillBucketWhenPointOnDrewPointExpectedPointChanges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="consoleDrawing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test.PainterTest" />
+      <option name="METHOD_NAME" value="testFillBucketWhenPointOnDrewPointExpectedPointChanges" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PainterTest" />
+        <item itemvalue="JUnit.PainterTest.testFillBucketWhenPointOnDrewPointExpectedPointChanges" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.PainterTest.testFillBucketWhenPointInsideOfTheLinesAndEdgeAreaExpectedAreaFilled" />
+        <item itemvalue="JUnit.PainterTest.testFillBucketWhenPointInsideOfTheRectangleExpectedRectangleFilled" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e801a07-12bf-4267-86db-8bdd16954e6b" name="Default Changelist" comment="" />
+      <created>1612331484024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612331484024</updated>
+      <workItem from="1612331492022" duration="32674000" />
+      <workItem from="1612870473312" duration="198000" />
+      <workItem from="1612870823528" duration="713000" />
+      <workItem from="1612871843764" duration="21514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="112" key="#Inspections" timestamp="1612709340290">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="112" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1612709340290" />
+    <state x="184" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612960473675">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1612854363594" />
+    <state x="184" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1612960473675" />
+    <state x="0" y="28" width="1440" height="872" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1612962167316">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="28" width="1440" height="872" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1440.875@0.25.1440.875" timestamp="1612962167316" />
+    <state x="0" y="0" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1612798090821">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1612798090821" />
+    <state x="0" y="0" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1612854360651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1612854360651" />
+    <state x="324" y="48" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1612344279839">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="324" y="48" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1612344279839" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612859787668">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1612859787668" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612859151760">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1612859151760" />
+    <state width="1398" height="360" key="GridCell.Tab.0.bottom" timestamp="1612962177248">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1612955313101" />
+    <state width="1398" height="360" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612962177248" />
+    <state width="1398" height="360" key="GridCell.Tab.0.center" timestamp="1612962177246">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1612955313099" />
+    <state width="1398" height="360" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612962177246" />
+    <state width="1398" height="360" key="GridCell.Tab.0.left" timestamp="1612962177245">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1612955313098" />
+    <state width="1398" height="360" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612962177245" />
+    <state width="1398" height="360" key="GridCell.Tab.0.right" timestamp="1612962177247">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1612955313100" />
+    <state width="1398" height="360" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612962177247" />
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom" timestamp="1612960677161">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1612954832283" />
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612960677161" />
+    <state width="1398" height="270" key="GridCell.Tab.1.center" timestamp="1612960677160">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1612954832282" />
+    <state width="1398" height="270" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1612960677160" />
+    <state width="1398" height="270" key="GridCell.Tab.1.left" timestamp="1612960677159">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1612954832281" />
+    <state width="1398" height="270" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1612960677159" />
+    <state width="1398" height="270" key="GridCell.Tab.1.right" timestamp="1612960677161">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="292" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1612954832282" />
+    <state width="1398" height="270" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1612960677161" />
+    <state x="0" y="0" width="1125" height="900" key="SettingsEditor" timestamp="1612871574763">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1125" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1612871574763" />
+    <state x="0" y="28" width="1440" height="872" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1612876225258">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="28" width="1440" height="872" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1612876225258" />
+    <state x="419" y="348" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612871461301">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="419" y="348" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1612871461301" />
+    <state x="496" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612798106131">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="496" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1612798106131" />
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1612947969553">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1612947969553" />
+  </component>
+</project>
